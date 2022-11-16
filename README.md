@@ -1,0 +1,2 @@
+# hervisPrint
+Translated for hungarian
